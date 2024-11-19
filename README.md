@@ -41,7 +41,7 @@ To test the project, we performed the following steps:
 
 <h2>Video of the Solar Tracker:</h2>
     <video width="640" height="360" controls>
-        <source src="https://video-mea.s3.eu-north-1.amazonaws.com/Videoclip+proiect+subtitrat.mp4" type="video/mp4">
+      <source src="https://video-mea.s3.eu-north-1.amazonaws.com/Videoclip%20proiect%20subtitrat.mp4" type="video/mp4">
         Your browser does not support the video tag.
     </video>
 
