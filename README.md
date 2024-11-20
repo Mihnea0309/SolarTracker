@@ -39,7 +39,8 @@ To test the project, we performed the following steps:
 
 - <b>Arduino IDE</b>
 
-<h3><a href = "https://video-mea.s3.eu-north-1.amazonaws.com/Videoclip%20proiect%20subtitrat.mp4">Video of the Solar Tracker</a></h3>
+<h3><a href = "https://video-mea.s3.eu-north-1.amazonaws.com/Videoclip+proiect.mp4">Video of the Solar Tracker explained in romanian</a></h3>
+<h3><a href = "https://video-mea.s3.eu-north-1.amazonaws.com/Videoclip%20proiect%20subtitrat.mp4">Video of the Solar Tracker explained with subtitles in english.</a></h3>
 
 
 
