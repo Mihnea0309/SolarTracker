@@ -31,7 +31,7 @@ To test the project, we performed the following steps:
 - Then, using a flashlight, we performed the testing, by which we could observe that the bracket works as we intended. We checked each photoresistor individually by illuminating each one independently and then each side. We also checked how it reacts to different light sources, such as from a lamp, a monitor, but also whether it works optimally in both a bright and a dark environment.
 
 
-<h2>Languages and Used</h2>
+<h2>Languages Used</h2>
 
 - <b>C</b> 
 
